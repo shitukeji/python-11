@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 wo de python
 fjkds/ajfkds
 #jiiiiii
+=======
+2018-03-22
+>>>>>>> d56cab1f0dfa7ad17af5b3b42c09c2c2fefcfc1c
